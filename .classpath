@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/fluent-hc-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/httpclient-cache-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/httpclient-win-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/jna-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ihmood3603/Desktop/Windows/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
